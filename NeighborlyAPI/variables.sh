@@ -25,7 +25,7 @@ connectionString='mongodb://mariascosmosaccount-cli:KliYHWM0Xa5y2srxRDKcXko2VLE5
 webApp='mariasDeployApp'
 ########################################
 containerRegistry='mariascontainerregistry'
-AKSCluster='mariaskuberneteskluster'
+AKSCluster='mariaskubekluster'
 imageName='mariasimage'
 imageTag='v1'
 ########################################
